@@ -1,0 +1,36 @@
+
+* { 
+	box-sizing: border-box;
+	margin:0px;
+	padding:0px;
+}
+
+body {
+	font-size:16px;
+	color:#fff;
+	background-color: white;
+}
+
+/** HEADER **/
+
+#header-nav {
+	background-color: #f6b319;	
+	border-radius: 0;
+	border:0px;
+	margin:0px;
+}
+
+#my-content {
+	height: 1000px;
+	background-color: gray;
+	margin:15px;
+}
+
+#header-menu {
+	margin-top: 10px;
+	color:black;
+}
+
+#bs-example-navbar-collapse-1 {
+	background-color:blue;
+}
